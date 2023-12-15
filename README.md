@@ -13,13 +13,6 @@ This is a RESTful API designed to power a blog application. It allows users to p
 - **Search Functionality**: Enable users to search for specific blog posts based on keywords.
 - **Pagination**: Implement pagination for efficient handling of large datasets.
 
-## Technologies Used
-
-- [Your Framework/Technology]
-- [Database Technology]
-- [Authentication Library]
-- [Other Libraries/Tools]
-
 ## Getting Started
 
 Follow these steps to get the project up and running on your local machine:
@@ -29,6 +22,13 @@ Follow these steps to get the project up and running on your local machine:
    git clone https://github.com/your-username/blog-api.git
 
 
+## nstall Dependencies:
+cd blog-api
+npm install   # or yarn install
+
+
+## Run the Application:
+npm start   # or yarn start
 
 
 
